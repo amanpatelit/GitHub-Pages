@@ -1,4 +1,4 @@
-# 🎯 Deploy Your Website on GitHub with a Custom Domain – FOR FREE! 🚀💡
+# 🎯 Deploy Your Website on GitHub with a Custom Domain – FOR FREE!
 
 
 ### 🔹 Step 1: Create a repo on github

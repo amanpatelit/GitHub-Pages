@@ -54,7 +54,8 @@ Go to your domain provider (e.g., Namecheap, GoDaddy) and add:
 
 🔒 Enable Enforce HTTPS in GitHub Pages settings for a secure connection!
 
-visit:- https://amanadlc.com
+visit:- https://aiwithaman.com
 
-![image](https://github.com/user-attachments/assets/fb73f547-e111-4d77-bcea-625e96f14336)
+<img width="1915" height="975" alt="image" src="https://github.com/user-attachments/assets/4d95ab9d-b87f-4f35-a0cf-cdc7c1fc10c8" />
+
 
